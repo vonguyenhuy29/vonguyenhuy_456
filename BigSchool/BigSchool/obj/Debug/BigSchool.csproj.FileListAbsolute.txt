@@ -257,3 +257,10 @@ C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSch
 C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
 C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.dll
 C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.addAttendance.resources
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Web.Http.dll
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Web.Http.xml
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
