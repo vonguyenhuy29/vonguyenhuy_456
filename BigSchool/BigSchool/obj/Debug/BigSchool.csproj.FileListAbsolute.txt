@@ -270,5 +270,5 @@ C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\Syst
 C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
 C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Web.Http.xml
 C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
-C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.addAttendance.resources
+C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.addFollowingsTable.resources
