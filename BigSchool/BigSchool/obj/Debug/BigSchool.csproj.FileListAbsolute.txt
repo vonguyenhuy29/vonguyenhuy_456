@@ -272,5 +272,6 @@ C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\Syst
 C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
 C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.addAttendance.resources
 C:\Users\Administrator\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.addFollowingsTable.resources
-C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.csprojAssemblyReference.cache
 C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.addFollowingsTable.resources
+C:\Users\vongu\Source\Repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
+C:\Users\vongu\source\repos\vonguyenhuy_456\BigSchool\BigSchool\obj\Debug\BigSchool.csprojAssemblyReference.cache
